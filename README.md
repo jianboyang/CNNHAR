@@ -21,5 +21,5 @@ Data:
  
 Please send comments, suggestions and bug reports to email: jbyang.email@gmail.com
 
-# Deep convolutional neural network for human activity 
+# CNNHAR
 
