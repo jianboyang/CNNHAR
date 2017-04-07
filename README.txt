@@ -1,7 +1,9 @@
-Description:
+# Deep convolutional neural network for human activity 
+
+### Description:
  This is a software package of Deep Convolutional Neural Networks on Multichannel Time Series for Human Activity Recognition
 
-Reference:
+### Reference:
  Jian-Bo Yang, Minh Nhut Nguyen, Phyo Phyo San, Xiao-Li Li, Priyadarsini Krishnaswamy Shonali, 
  "Deep Convolutional Neural Networks on Multichannel Time Series for Human Activity Recognition", 
  IJCAI 2015
@@ -18,5 +20,7 @@ Data:
  
  
 Please send comments, suggestions and bug reports to email: jbyang.email@gmail.com
+
+# Deep convolutional neural network for human activity 
 
 
