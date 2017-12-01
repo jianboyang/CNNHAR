@@ -19,7 +19,6 @@ Data:
  The sample data is available at:  https://drive.google.com/file/d/0BwKaI_JkwD0GT25mbTdiaU1jeG8/view
  
  
-Please send comments, suggestions and bug reports to email: jbyang.email@gmail.com
 
 # CNNHAR
 
